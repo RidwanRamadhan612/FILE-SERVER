@@ -1,11 +1,9 @@
   <!-- Main Footer -->
-  <footer class="main-footer">
+  <footer class="main-footer text-center">
       <!-- To the right -->
-      <div class="float-right d-none d-sm-inline">
-          Anything you want
+      <div class="d-none d-sm-inline">
+          Copyright &copy SoftwareIncom
       </div>
-      <!-- Default to the left -->
-      <strong>Copyright &copy; 2014-2019 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
   </footer>
   </div>
   <!-- ./wrapper -->

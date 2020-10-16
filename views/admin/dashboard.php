@@ -21,8 +21,8 @@
     <div class="content">
         <div class="container-fluid">
             <div class="alert alert-success text-center" role="alert">
-                <h3 class="alert-heading font-weight-bold">Hi, <?= $user['nama'] ?>!</h3>
-                <p class="text-small">Selamat datang di FILE SERVER anda sebagai user</p>
+                <h3 class="alert-heading font-weight-bold">Hi, <?= $admin['nama']; ?>!</h3>
+                <p class="text-small">Selamat datang di FILE SERVER anda sebagai <?= $admin['nama']; ?></p>
                 <hr>
             </div>
         </div><!-- /.container-fluid -->

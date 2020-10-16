@@ -13,7 +13,7 @@
                 <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
                 <li class="nav-item menu-open">
-                    <a href="#" class="nav-link active">
+                    <a href="<?= base_url('admin'); ?>" class="nav-link active">
                         <i class="nav-icon fas fa-fw fa-tachometer-alt"></i>
                         <p>
                             Dashboard
@@ -21,10 +21,10 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="<?= base_url('admin/akun'); ?>" class="nav-link">
                         <i class="nav-icon fas fa-fw fa-user-alt"></i>
                         <p>
-                            Data Diri
+                            Setting Akun
                         </p>
                     </a>
                 </li>
